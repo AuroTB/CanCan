@@ -109,7 +109,7 @@ void loop() {
   
   finale();
   
-  delay(10000);
+  delay(11000);
 }
 
   
