@@ -7,6 +7,7 @@ void setup() {
 }
 
 void loop() {
+  
   inicio();
   inicio2();
   inicio2();
@@ -107,22 +108,6 @@ void loop() {
   tension(350);
   
   finale();
-  
-//  delay(300);
-//  levantapatas();
-//  levantareversa();
-//  tension(350);
-//  tension(350);
-//  giro();
-//  giro();
-//  tension(350);
-//  tension(350);
-//  cuatropatas();
-//  reversacuatro();
-//  tension(350);
-//  tension(350);
-//  cuatropatas();
-//  reversacuatro();
   
   delay(10000);
 }
