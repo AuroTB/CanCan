@@ -95,5 +95,9 @@ void inicio2(){
   Serial.println(F("#10 P900 T100"));
 
   delay(700);
+  
+  //a= servo de la pieza negra
+  //b= servo de la pieza de metal
+  //c= servo de la base
 }
 
